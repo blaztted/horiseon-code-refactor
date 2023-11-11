@@ -30,6 +30,8 @@ For that, I need to **practice** a lot!
   <img alt="Horieson website" src="./assets/images/CleanCode.jpg" width="250" height="120">
 </p>
 
+**Cleaner code!**
+
 One of the most effective ways to solve coding problems is by meticulously cleaning and optimizing the code. Through this process, I've not only addressed immediate challenges but also gained a deeper understanding of programming principles.
 
 ## What I learned
