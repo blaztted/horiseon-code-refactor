@@ -19,14 +19,35 @@ Refactoring the code of this website so to make it easier to add new code, while
 
 ## Reasoning
 
+**Practice.**
+
+I aspire to practice coding consistently to enhance my problem-solving abilities, foster innovation, and contribute meaningfully to technological advancements. Recognizing the pivotal role coding plays in shaping the future, I am driven to master this skill.
+For that, I need to **practice** a lot!
+
 ## Problems solved
 
 <p align="left">
   <img alt="Horieson website" src="./assets/images/CleanCode.jpg" width="250" height="120">
 </p>
 
-Cleaner code!
+One of the most effective ways to solve coding problems is by meticulously cleaning and optimizing the code. Through this process, I've not only addressed immediate challenges but also gained a deeper understanding of programming principles.
 
 ## What I learned
 
+Refactoring code has been a valuable learning experience for me. It has not only improved the overall quality and readability of the code but has also deepened my understanding of best practices and design principles.
+I have now aswell a better understanding about the synergy between some CSS features, like `padding` and `margin`.
+Overall, I've learned that the process of refactoring is not just about improving aesthetics but is a fundamental aspect of becoming a proficient and thoughtful coder.
+
 ## What makes my project stand out?
+
+The standout features of my coding refactor project include a integrated approach to improvement, detailed documentation, and a focus on long-term system health, demonstrating a dedication to producing high-quality, sustainable code.
+
+## Links
+
+N/A yet
+
+## License
+
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Licensed under the [MIT](LICENSE.txt) license.
