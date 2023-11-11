@@ -21,8 +21,8 @@ Refactoring the code of this website so to make it easier to add new code, while
 
 ## Problems solved
 
-<p align="center">
-  <img alt="Horieson website" src="./assets/images/CleanCode.jpg">
+<p align="left">
+  <img alt="Horieson website" src="./assets/images/CleanCode.jpg" width="250" height="120">
 </p>
 
 Cleaner code!
