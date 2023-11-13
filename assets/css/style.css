@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #d9dcd6;
+  background-color: #d9dcd6; /* Set background colour */
 }
 
 p {
@@ -23,10 +23,6 @@ p {
   color: #ffffff;
 }
 
-.seo {
-  color: #d9dcd6;
-}
-
 .header div {
   padding-top: 15px;
   margin-right: 20px;
@@ -35,8 +31,8 @@ p {
   font-size: 20px;
 }
 
-.header div ul {
-  list-style-type: none;
+.seo {
+  color: #d9dcd6;
 }
 
 .main-img {

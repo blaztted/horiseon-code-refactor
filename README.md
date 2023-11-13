@@ -32,7 +32,8 @@ For that, I need to **practice** a lot!
 
 **Cleaner code!**
 
-One of the most effective ways to solve coding problems is by meticulously cleaning and optimizing the code. Through this process, I've not only addressed immediate challenges but also gained a deeper understanding of programming principles.
+After refactoring this website code, the problems I solved were:
+code duplication, poor naming, unused coded, lack of comments and documentation, inconsistent coding style and accessibility.
 
 ## What I learned
 
@@ -46,7 +47,8 @@ The standout features of my coding refactor project include a integrated approac
 
 ## Links
 
-N/A yet
+https://github.com/blaztted/horiseon-code-refactor
+https://blaztted.github.io/horiseon-code-refactor/
 
 ## License
 
