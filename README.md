@@ -2,7 +2,7 @@
 
 ## The Repository
 
-This repository is where I refactor the Horiseon website code in order to meet the industry accessibility standards so that the site is optimized for search engines.
+This repository is where I refactor the [Horiseon](https://blaztted.github.io/horiseon-code-refactor/) website code in order to meet the industry accessibility standards so that the site is optimized for search engines.
 
 ## Horiseon
 
