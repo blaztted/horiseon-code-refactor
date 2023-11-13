@@ -48,6 +48,7 @@ The standout features of my coding refactor project include a integrated approac
 ## Links
 
 https://github.com/blaztted/horiseon-code-refactor
+
 https://blaztted.github.io/horiseon-code-refactor/
 
 ## License
