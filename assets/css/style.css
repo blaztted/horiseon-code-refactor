@@ -75,10 +75,6 @@ a:hover {
   max-height: 200px;
 }
 
-.content h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -100,6 +96,11 @@ a:hover {
   margin-left: 25px;
 }
 
+h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 /* CONTENT RIGHT */
 
 .benefits {
@@ -111,11 +112,6 @@ a:hover {
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
-}
-
-.benefits h2 {
-  margin-bottom: 10px;
-  text-align: center;
 }
 
 .benefits img {
@@ -131,6 +127,10 @@ a:hover {
   color: #ffffff;
 }
 
+h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
 /* FOOTER */
 
 .footer {
@@ -141,6 +141,6 @@ a:hover {
   text-align: center;
 }
 
-.footer h3 {
+h4 {
   font-size: 10px;
 }
